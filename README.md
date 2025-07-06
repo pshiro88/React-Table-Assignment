@@ -22,6 +22,11 @@ A fully functional contact management system built with **ReactJS**, **Redux Too
 ✅ Toggle between contact list and form view
 
 ---
+## 🛠 Recording
+
+- Go to Issues Tab You will see the recordings
+
+---
 
 ## 🛠 Tech Stack
 
